@@ -69,7 +69,8 @@ Buat dokumen html lab5_javascript.html
     
     </html>
     
-    ![aan3](https://github.com/aanfadillah/lab5web/assets/115763475/6e6095ae-5964-4f22-ab6b-aeb4f88d7989)
+ ![aan3](https://github.com/aanfadillah/lab5web/assets/115763475/63631f21-4821-4e29-b587-5756d28feee3)
+
 
     #### Prompt
     <html>
@@ -84,8 +85,9 @@ Buat dokumen html lab5_javascript.html
         </body>
     </html>
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/8f065c0e-b3a8-4ac3-b144-e9cda39f4eb2)
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/aec649cd-e5ff-401b-803d-a5bf3603206c)
+![aan4](https://github.com/aanfadillah/lab5web/assets/115763475/ce5f71e0-ae8b-4c71-875c-ae2c3c9cd9a9)
+
+![aan5](https://github.com/aanfadillah/lab5web/assets/115763475/df98d3fa-3a8c-470d-8499-7dc5edb341ed)
 
 #### Fungsi 
     <html>
@@ -103,7 +105,8 @@ Buat dokumen html lab5_javascript.html
     
     </html>
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/2ad19d61-a3ad-43e0-af7b-07d650325050)
+![aan6](https://github.com/aanfadillah/lab5web/assets/115763475/2053fdfe-6b2d-4d30-81c1-cb82e86d9621)
+
 
 #### Operasi Aritmatika
     <html>
@@ -129,8 +132,9 @@ Buat dokumen html lab5_javascript.html
         </body>
     </html>
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/6a13767f-a0bb-43af-a7ef-d78619fdcbdf)
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/2cddd81b-4ed7-409a-a1e4-f71a470d3a5b)
+![aan7](https://github.com/aanfadillah/lab5web/assets/115763475/40daeddd-d643-48fa-ab8e-c953fd794c82)
+![aan8](https://github.com/aanfadillah/lab5web/assets/115763475/3a1d5905-14e6-47ed-81bb-7012163a1c01)
+
 
 #### If Else 
     <html>
@@ -153,11 +157,11 @@ Buat dokumen html lab5_javascript.html
     </body>
     
     </html>
+![aan9](https://github.com/aanfadillah/lab5web/assets/115763475/4f912cec-9b5f-449c-8509-0a48133eacd2)
+![aan10](https://github.com/aanfadillah/lab5web/assets/115763475/21394a52-b9bc-4a46-a198-ee6a2c27e02f)
+![aan11](https://github.com/aanfadillah/lab5web/assets/115763475/ddb07957-0926-424f-86b8-83bcffc33442)
+![aan12](https://github.com/aanfadillah/lab5web/assets/115763475/f1a818b8-547d-4567-a07a-b80b5edd86f2)
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/9c7b4967-1832-49ce-bc40-4ae798f72e05)
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/f9431f59-a87f-4c2d-8fb3-75801a79089e)
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/b2d9f3fc-f04d-4878-a39a-2e39db2d5ba9)
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/54873923-da5c-4689-8290-0cc1fea1979f)
 
 #### Switch
     <html>
@@ -195,11 +199,10 @@ Buat dokumen html lab5_javascript.html
     </body>
     
     </html>
-
-
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/7c5da12e-cfeb-482c-86d7-42be097b7bfc)
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/264ca19e-fb06-4ebe-9648-f27f2a739098)
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/492f3d43-129c-4f7d-b84f-ce7502ed5d54)
+    
+![aan13](https://github.com/aanfadillah/lab5web/assets/115763475/e74a78ba-6859-48a1-b4fd-fa876df40ff7)
+![aan14](https://github.com/aanfadillah/lab5web/assets/115763475/e09f6873-7c3a-4d5b-909e-199c5f33aa2f)
+![aan15](https://github.com/aanfadillah/lab5web/assets/115763475/61a1f7b6-9108-4337-abf9-837f8d46408b)
 
 #### Form Input
     <html>
@@ -230,7 +233,8 @@ Buat dokumen html lab5_javascript.html
     
     </html>
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/cef24e5e-005a-4192-ba9b-8ddb20eee965)
+![aan16](https://github.com/aanfadillah/lab5web/assets/115763475/d6ab460c-e24c-4d0d-bf45-64f6c99584e7)
+
 
 #### Form Button
     <html>
@@ -260,10 +264,11 @@ Buat dokumen html lab5_javascript.html
     </body>
     
     </html>
+    
+![aan17](https://github.com/aanfadillah/lab5web/assets/115763475/5a482d11-fa98-42d9-b0f1-06dbe51b133f)
+![aan18](https://github.com/aanfadillah/lab5web/assets/115763475/9f4cef46-2cd4-458f-97ca-58bd88897620)
+![aan19](https://github.com/aanfadillah/lab5web/assets/115763475/98c63ae6-126b-4ff6-9409-db73ac86174d)
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/122a6d26-bcb8-4d72-9fae-c00eb12d3dc1)
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/086938f5-c457-4f57-aafb-5309e5c85403)
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/44c83846-be16-46ee-9465-01e4d61d3df4)
 
 ### HTML DOM
 Pilihan checkbox yang akan menghasilkan perhitungan otomatis
@@ -294,21 +299,26 @@ Pilihan checkbox yang akan menghasilkan perhitungan otomatis
     <body>
         <h1>Daftar Menu Makanan</h1>
         <label><input type="checkbox" value="5000" id="menu1" onclick="hitung(this);" />
-            Ayam Goreng Rp 5.0000</label><br />
+            Burger Rp 15.000</label><br />
         <label><input type="checkbox" value="500" id="menu2" onclick="hitung(this);" />
-            Tempe Goreng Rp 500</label><br />
+            Sosis bakar Rp 5000</label><br />
         <label><input type="checkbox" value="2500" id="menu3" onclick="hitung(this);" />
-            Telur Dadar Rp 2.500</label>
+            Spaghetti Rp 10.⁰00</label>
         <hr />
         <strong>Total Bayar: Rp <input type="text" id="total" /></strong>
     </body>
     
     </html>
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/459d3831-59bc-41a2-b763-ce82b5fd0fbc)
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/c0e7549d-ccee-42f4-9d23-0db945661c2a)
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/b8c0861f-d28c-462b-92e3-9a441be0daf9)
+![aan20](https://github.com/aanfadillah/lab5web/assets/115763475/d6227620-2589-4fa9-8979-0a80fc0f5732)
+![aan21](https://github.com/aanfadillah/lab5web/assets/115763475/2a881559-f757-479b-af2a-b0502264e12a)
+![aan22](https://github.com/aanfadillah/lab5web/assets/115763475/1ea8fd98-5617-4b8b-8229-c1ba4f529f03)
+
 
 ## Tugas
 ### 1. Buat script untuk melakukan validasi pada isian form.
-- <a href="https://github.com/alifamarta/Praktikum-PemogramanWeb/blob/main/Lab5Web/lab5_javascript/tugas.html">HTML</a> & <a href="https://github.com/alifamarta/Praktikum-PemogramanWeb/blob/main/Lab5Web/lab5_javascript/css/style.css">CSS</a>
+- <a href="https://github.com/aanfadillah/Praktikum-PemogramanWeb/blob/main/Lab5Web/lab5_javascript/tugas.html">HTML</a> & <a href="https://github.com/aanfadillah/Praktikum-PemogramanWeb/blob/main/Lab5Web/lab5_javascript/css/style.css">CSS</a>
+
+![aan23](https://github.com/aanfadillah/lab5web/assets/115763475/a7701857-1cce-4b3b-be96-6c17b56e9473)
+![aan24](https://github.com/aanfadillah/lab5web/assets/115763475/6c3b824a-7f6c-4a12-beca-977fec3e0853)
+
